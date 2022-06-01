@@ -18,14 +18,6 @@ function App() {
 
         <Footer />
       </BrowserRouter>
-
-      {/* Home */}
-      {/* Header */}
-      {/* Banner */}
-      {/* Search */}
-      {/* Cards */}
-      {/* Footer */}
-      {/* Search Page */}
     </div>
   );
 }
